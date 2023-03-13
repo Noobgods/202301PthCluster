@@ -1,6 +1,6 @@
-#include <stdio.h>
+#include <stdio.h>  // 표준입출력을 포함한 전처리
 
-int main()
+int main()  // 메인 함수 프로그램 시작지점.
 {   // main 함수의 범위를 지정하는 중괄호
     int num1, num2; // ,(콤마)를 사용해도 되지만 확실한 구분을 위해 ;(세미콜론)을 사용하는 것이 좋음
     /*
