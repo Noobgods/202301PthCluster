@@ -6,6 +6,7 @@
 [3주차 내용](https://github.com/Goodgaym/202301PthCluster/blob/master/Week3_Conditionals/Contents.md)   
 [4주차 내용](https://github.com/Goodgaym/202301PthCluster/blob/master/Week4_Loop/Contents.md)   
 [5주차 내용](https://github.com/Goodgaym/202301PthCluster/blob/master/Week5_Array/Contents.md)   
+[6주차 내용](https://github.com/Goodgaym/202301PthCluster/blob/master/Week6_Function/Contents.md)   
 .   
 .   
 .   
