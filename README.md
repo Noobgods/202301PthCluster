@@ -7,6 +7,8 @@
 [4주차 내용](https://github.com/Goodgaym/202301PthCluster/blob/master/Week4_Loop/_Contents.md)   
 [5주차 내용](https://github.com/Goodgaym/202301PthCluster/blob/master/Week5_Array/_Contents.md)   
 [6주차 내용](https://github.com/Goodgaym/202301PthCluster/blob/master/Week6_Function/_Contents.md)   
+[7주차 내용](https://github.com/Goodgaym/202301PthCluster/blob/master/Week7_SortAndSearch/_Contents.md)   
+[8주차 내용](https://github.com/Goodgaym/202301PthCluster/blob/master/Week8_LinearStructure/_Contents.md)   
 
 <br/><br/><br/>
 
